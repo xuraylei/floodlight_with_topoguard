@@ -37,3 +37,5 @@ We extend Floodlight Controller with additional Topology Update Security verific
 "/src/main/java/net/floodlightcontroller/topologysecurity" 
 and HMAC Verifcation in
 "/src/main/java/net/floodlightcontroller/linkdiscovery/LinkDiscoveryManager.java"
+For more Information, you are welcomed to read our paper or visit our website:
+http://faculty.cs.tamu.edu/guofei/paper/TopoGuard_NDSS15.pdf
