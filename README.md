@@ -30,10 +30,10 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-##########################################################################
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
-Description: This is FLoodlight Controller with topoguard security extension.
-We add 
+Highlights: 
+We extend Floodlight Controller with add Topology Update Security verification in
 /src/main/java/net/floodlightcontroller/topologysecurity 
-and slightly modify the 
+and HMAC Verifcation in
 /src/main/java/net/floodlightcontroller/linkdiscovery/LinkDiscoveryManager.java
