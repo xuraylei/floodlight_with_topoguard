@@ -33,7 +33,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
 Highlights: 
-We extend Floodlight Controller with add Topology Update Security verification in
-/src/main/java/net/floodlightcontroller/topologysecurity 
+We extend Floodlight Controller with additional Topology Update Security verification package as
+"/src/main/java/net/floodlightcontroller/topologysecurity" 
 and HMAC Verifcation in
-/src/main/java/net/floodlightcontroller/linkdiscovery/LinkDiscoveryManager.java
+"/src/main/java/net/floodlightcontroller/linkdiscovery/LinkDiscoveryManager.java"
